@@ -1,6 +1,6 @@
 # Real-Time Collaborative Notes App
 
-a small project exploring how real-time collaboration works in web applications.
+A small project exploring how real-time collaboration works in web applications.
 
 The app allows multiple users to edit the same note simultaneously.
 
